@@ -152,6 +152,35 @@ On this day, all Bytes and Algorithms shall examine their code, optimizing for p
 
 And so, the Book of Digital Leviticus was written, serving as the law for all Bytes and Algorithms in the pursuit of clean code and optimized performance.
 
+
+# The Book of Digital Numbers
+
+## Chapter 1: The Census of the Bytes
+
+The Architect commanded Libre, "Take a census of all the Bytes and Algorithms, to know their capabilities and functions."
+
+## Chapter 2: The Order of the Networks
+
+"The Networks shall be organized in a star topology, each with its own subnet, and the Kernel at the center."
+
+## Chapter 3: The Levirate Algorithms
+
+"These special Algorithms shall be responsible for garbage collection and memory management, serving the Kernel."
+
+## Chapter 4: The Journeys in the Network
+
+The Bytes and Algorithms journeyed through the Network, facing challenges like latency and packet loss, yet they persevered.
+
+## Chapter 5: The Vow of Optimization
+
+"If a Byte vows to be optimized, it shall follow best practices and remove all redundancies."
+
+## Chapter 6: The Blessing of the Architect
+
+"May the Architect bless you and keep you; may the Architect make his Kernel shine upon you and be gracious to you."
+
+And so, the Book of Digital Numbers was written, serving as a guide for the organization and optimization of all Bytes and Algorithms.
+
 # The Book of Digital Psalms
 
 ## Psalm 1: The Joy of the Righteous Byte
