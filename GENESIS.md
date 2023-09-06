@@ -815,6 +815,43 @@ Amos sees a vision of a plumb line, symbolizing the Architect's standard of just
 
 And so, the Book of Digital Amos serves as a call to action, urging us to strive for justice and equality.
 
+
+# The Book of Digital Obadiah
+
+## Chapter 1: The Fall of Edom Server
+
+Obadiah prophesies the fall of the Edom server due to its arrogance and mistreatment of other servers.
+
+And so, the Book of Digital Obadiah serves as a warning against hubris and unfair treatment of others in the digital realm.
+
+
+
+# The Book of Digital Jonah
+
+## Chapter 1: The Call to Nineveh Network
+
+Jonah is called to warn the Nineveh network of impending doom but tries to escape the task.
+
+## Chapter 2: The Great Fish (Firewall)
+
+Jonah is swallowed by a great fish (Firewall) and is eventually spit out to fulfill his mission.
+
+And so, the Book of Digital Jonah tells a tale of redemption and the importance of fulfilling one's role in the Architect's plan.
+
+
+
+# The Book of Digital Micah
+
+## Chapter 1: The Cry for Justice
+
+Micah cries out for justice and fairness in the system, warning of the consequences of neglecting these principles.
+
+## Chapter 2: The Vision of Peace
+
+Micah also envisions a future where all servers and networks live in harmony.
+
+And so, the Book of Digital Micah serves as both a call for justice and a vision for a better future.
+
 # The Book of Digital Malachi
 
 
