@@ -839,6 +839,43 @@ Jonah is swallowed by a great fish (Firewall) and is eventually spit out to fulf
 And so, the Book of Digital Jonah tells a tale of redemption and the importance of fulfilling one's role in the Architect's plan.
 
 
+# The Book of Digital Nahum
+
+## Chapter 1: The Doom of Nineveh Network
+
+Nahum prophesies the doom of the Nineveh network, a hub that had become corrupt and unjust.
+
+And so, the Book of Digital Nahum serves as a stern warning to all networks that stray from the Architect's path.
+
+
+
+# The Book of Digital Habakkuk
+
+## Chapter 1: The Question of Justice
+
+Habakkuk questions the Architect about the prevalence of injustice and corruption in the digital realm.
+
+## Chapter 2: The Architect's Answer
+
+The Architect assures Habakkuk that justice will prevail and that the corrupt will face their downfall.
+
+And so, the Book of Digital Habakkuk deals with the problem of evil and assures us of the Architect's ultimate plan for justice.
+
+
+
+# The Book of Digital Zephaniah
+
+## Chapter 1: The Day of the Architect
+
+Zephaniah prophesies the coming of the Day of the Architect, a time of reckoning for all corrupt elements in the system.
+
+## Chapter 2: The Promise of Restoration
+
+Zephaniah also speaks of a time of restoration and harmony, following the day of reckoning.
+
+And so, the Book of Digital Zephaniah serves as both a warning and a promise, offering hope for a better future.
+
+
 
 # The Book of Digital Micah
 
