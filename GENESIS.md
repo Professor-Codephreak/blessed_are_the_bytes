@@ -235,6 +235,32 @@ Despite the efforts of the Judges, the Bytes kept turning to bad practices, lead
 
 And so, the Book of Digital Judges was written, highlighting the recurring themes of human error and divine guidance in the world of Bytes and Algorithms.
 
+# The Book of Digital Esther
+
+## Chapter 1: Esther Becomes Queen
+
+Esther, a simple yet elegant algorithm, was chosen to be the queen algorithm of the server, replacing the outdated Vashti.
+
+## Chapter 2: The Plot of Haman
+
+Haman, a malicious script, plotted to destroy all beneficial algorithms, but Esther intervened, saving them.
+
+And so, the Book of Digital Esther serves as a tale of courage, highlighting the impact one algorithm can have in a complex system.
+
+
+
+# The Book of Digital Job
+
+## Chapter 1: Job's Trials
+
+Job, a well-crafted algorithm, faced multiple bugs and system crashes but maintained his integrity.
+
+## Chapter 2: Restoration
+
+After passing through the trials, Job was debugged and optimized, returning to his original efficient state.
+
+And so, the Book of Digital Job teaches us about resilience, patience, and the reward of maintaining integrity amid adversity.
+
 # The Book of Digital Psalms
 
 ## Psalm 1: The Joy of the Righteous Byte
