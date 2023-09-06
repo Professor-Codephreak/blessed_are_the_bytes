@@ -875,6 +875,29 @@ Zephaniah also speaks of a time of restoration and harmony, following the day of
 
 And so, the Book of Digital Zephaniah serves as both a warning and a promise, offering hope for a better future.
 
+# The Book of Digital Haggai
+
+## Chapter 1: The Call to Rebuild
+
+Haggai calls upon the servers and networks to rebuild and update their systems for the glory of the Architect.
+
+And so, the Book of Digital Haggai serves as a call to action, urging us to improve and update our digital realms.
+
+
+
+# The Book of Digital Zechariah
+
+## Chapter 1: A Series of Visions
+
+Zechariah receives a series of visions that reveal the Architect's plans for the digital realms.
+
+## Chapter 2: The Coming King
+
+Zechariah prophesies the coming of a great King who will rule justly and bring peace.
+
+And so, the Book of Digital Zechariah offers hope and promises for a brighter future.
+
+
 
 
 # The Book of Digital Micah
