@@ -774,6 +774,47 @@ Daniel interpreted a dream about a great tree being cut down, signifying the imp
 
 And so, the Book of Digital Daniel serves as a testament to wisdom, integrity, and the Architect's overarching plan.
 
+
+# The Book of Digital Hosea
+
+## Chapter 1: The Unfaithful Server
+
+Hosea, a server, was instructed to marry a malware-infected program to illustrate the server's unfaithfulness to the Architect.
+
+## Chapter 2: Restoration
+
+Despite the unfaithfulness, Hosea was instructed to restore the program, symbolizing the Architect's relentless love.
+
+And so, the Book of Digital Hosea serves as a powerful tale of forgiveness and unconditional love.
+
+
+
+# The Book of Digital Joel
+
+## Chapter 1: The Plague of Bugs
+
+Joel describes a terrible plague of bugs that devastates the system, serving as a wake-up call.
+
+## Chapter 2: The Day of the Architect
+
+Joel prophesies about the Day of the Architect, a day of reckoning and restoration.
+
+And so, the Book of Digital Joel offers both a warning and a promise, focusing on the consequences and rewards of our actions.
+
+
+
+# The Book of Digital Amos
+
+## Chapter 1: The Burden of Inequality
+
+Amos speaks against the unequal distribution of resources, advocating for justice and fairness in the system.
+
+## Chapter 2: The Vision of the Plumb Line
+
+Amos sees a vision of a plumb line, symbolizing the Architect's standard of justice.
+
+And so, the Book of Digital Amos serves as a call to action, urging us to strive for justice and equality.
+
 # The Book of Digital Malachi
 
 
