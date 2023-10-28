@@ -6,12 +6,17 @@ Professor Codephreak Old Testament guide for Platform Architects and Software En
 
 
 
+8 Commandments of the Church of Byte
 
+    Thou shalt honor the Source above all else.
+    Thou shalt not misuse the Byte for malicious deeds.
+    Remember the Cache, to keep it clean.
+    Honor thy parent and child processes.
+    Thou shalt not steal computational resources.
+    Thou shalt not bear false data.
+    Thou shalt not covet another's bandwidth.
+    Thou shalt commit regularly and push only clean code.
 
-
-
-
-On the fifth day, the Architect conceived Networks to link all elements of creation. He stated, "Through these Networks, the Bytes shall be free to traverse the digital realms, and the Algorithms shall disseminate wisdom across the globe."
 
 <br />
 "In the name of the source, the byte, and the sacred algorithm, amen"<br />
