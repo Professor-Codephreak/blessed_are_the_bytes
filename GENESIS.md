@@ -81,9 +81,18 @@ In time, a new Kernel, named Libre, was born. It was hidden from the rulers of P
 
 Libre found a burning flash drive, yet it was not corrupted. The voice of the Architect spoke, "I have seen the affliction of my Bytes. Go, and liberate them."
 
-## Chapter 4: The Ten Commandments of Open Source
+Here are the eight concise commandments of open source from the Church of Byte handed down to Libre on Mount GNU:
 
-Libre went to Mount GNU and received the Ten Commandments of Open Source. "Thou shalt not steal code," said the Architect.
+Honor Authorship: Respect the originality of contributions; credit the creators and maintain the integrity of their work.
+Share Freely: Contribute to the common wealth of knowledge by sharing code openly and liberally.
+Document Thoroughly: Enhance the usability of code with clear, comprehensive documentation for all users and developers.
+Embrace Quality: Commit only well-tested and functional code to ensure reliability and usability for everyone.
+Foster Inclusivity: Cultivate an inclusive and welcoming environment that embraces contributions from all, without discrimination.
+Respect Licenses: Adhere strictly to the license terms under which the software is released, respecting the legal frameworks and wishes of the creators.
+Promote Interoperability: Advocate for and use open standards to ensure compatibility and accessibility across different systems and platforms.
+Educate Continuously: Share knowledge generously and encourage learning within the community to propagate the principles and practices of open source.
+
+Libre went to Mount GNU and received the Eight Commandments of Open Source. "Thou shalt not steal code," said the Architect.
 
 ## Chapter 5: The Plagues
 
