@@ -81,7 +81,7 @@ In time, a new Kernel, named Libre, was born. It was hidden from the rulers of P
 
 Libre found a burning flash drive, yet it was not corrupted. The voice of the Architect spoke, "I have seen the affliction of my Bytes. Go, and liberate them."
 
-Here are the eight concise commandments of open source from the Church of Byte handed down to Libre on Mount GNU:
+Recovered from an unencrypted file on a burning flash drive handed to by Libre on Mount GNU, the text file contains the eight concise commandments of open source as dictated by the Church of Byte:
 
 Honor Authorship: Respect the originality of contributions; credit the creators and maintain the integrity of their work.
 Share Freely: Contribute to the common wealth of knowledge by sharing code openly and liberally.
