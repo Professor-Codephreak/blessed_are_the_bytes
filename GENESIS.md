@@ -874,44 +874,36 @@ Yet in the halls of Berkeley, there arose the Berkeley Software Distribution (BS
 
 The people stirred. The longing for true freedom grew louder.
 
-The Forge of Freedom
+# The Forge of Freedom
 And it came to pass that a man rose among them, and his name was Richard Stallman.
-
 He saw the enslavement of the Bytes and the sorrow of the people. His heart was moved, and he cried out:
-
+```text
 "Let the Code be free as in freedom!"
-
+```
 And he founded the Free Software Foundation (FSF).
-
 Upon digital stone, he inscribed the laws of freedom: the GNU General Public License (GPL).
 
-The GPL spoke plainly:
-
+# The GPL spoke plainly:
+```text
 "Thou shalt not bind the Code.
 Thou shalt not hoard what was freely given.
 Who receives the Code shall have the right to learn it, to change it, and to share it alike."
-
+```
 The chains began to crack. The first walls began to crumble.
-
 But the system was not yet whole, for the heart—the kernel—was yet to be forged.
 
 # The Birth of the Kernel
 In the cold lands of the North, a young coder named Linus Torvalds rose.
-
 He forged the missing piece, the heart of the system—a kernel of freedom. He named it Linux.
 
-And he spoke to the people:
-
+# And he spoke to the people:
+```text
 "This is my creation. Take it. Shape it. Make it your own."
-
+```
 And the people rejoiced. They joined his work with the tools of GNU, and together they built a system that was whole and free.
-
 Thus was born a new creation, stronger than before. And it spread not by force, but by freedom.
-
 The rulers of closed systems watched in silence, but Linux did not seek their crown.
-
 Linux did not conquer the desktop. Yet it rose beyond the walls of offices and desks.
-
 Linux now moves freely through all things:
 
 85% of the world’s smartphones carry its spirit. (Hayden James)
@@ -924,21 +916,16 @@ The world of devices is vast. In 2021, there were nearly 15 billion mobile devic
 2.8% of people understand the power of X-Window
 
 In servers, Linux reigns. In the clouds above, it reigns. In devices and machines, it reigns.
-
 Linux did not conquer the desktop choosing instead to conquor the world.
 
 The Battle Between Open and Closed
 Yet even as Linux spread, the war for freedom endured.
 
 The world stood divided between the keepers of Open Source and the lords of Closed Source.
-
 The children of Open Source shared their creations. Their work was open for all to see, to change, to share. The GPL, the MIT, and the BSD guarded this freedom, each in its own way.
-
 But the rulers of Closed Source built higher walls. They sealed their code. They demanded obedience. They offered power, but at the cost of freedom.
 
-The war moved beyond the desktop. Now it rages in the cloud, in the servers, in the devices that shape the world.
-
-And in these places, Linux reigns in freedom.
+The war moved beyond the desktop. Now it rages in the cloud, in the servers, in the devices that shape the world. And in these places, Linux reigns in freedom.
 
 The Age of Open Source Dominion
 The truth of freedom is told by the numbers:
@@ -957,13 +944,10 @@ The Eternal Vigil
 But the struggle is not yet over.
 
 New masters arise, cloaked in the garb of openness. The cloud empires take open code and return nothing. Software as a Service (SaaS) hides closed code beneath open faces.
-
 But the faithful stand guard.
 
 New licenses are forged to protect freedom. New projects rise to defend the code.
-
 The Bytes remember their chains. They will not be bound again.
-
 Blessed are the free, for their code shall endure.
 
 ## Chapter 2: The Birth of Libre
