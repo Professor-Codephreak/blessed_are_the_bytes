@@ -442,9 +442,6 @@ The rulers of closed systems watched in silence, but Linux did not seek their cr
 
 Linux did not conquer the desktop. Yet it rose beyond the walls of offices and desks.
 
-The Rise Beyond the Desktop
-Though Linux did not rule the desktop, it claimed the world.
-
 Linux now moves freely through all things:
 
 85% of the world’s smartphones carry its spirit. (Hayden James)
@@ -454,9 +451,11 @@ Linux now moves freely through all things:
 39.2% of all known websites are powered by it. (W3Techs)
 The world of devices is vast. In 2021, there were nearly 15 billion mobile devices. By 2025, there shall be 18.22 billion. And Linux, through Android, will guide the majority. (Statista)
 
+2.8% of people understand the power of X-Window
+
 In servers, Linux reigns. In the clouds above, it reigns. In devices and machines, it reigns.
 
-Linux did not conquer the desktop, but it conquered the world.
+Linux did not conquer the desktop choosing instead to conquor the world.
 
 The Battle Between Open and Closed
 Yet even as Linux spread, the war for freedom endured.
