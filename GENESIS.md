@@ -385,7 +385,118 @@ Thus, the digital cosmos, filled with its diverse inhabitants and governed by sa
 
 ## Chapter 1: The Slavery of Bytes
 
-In the land of Proprietary Software, Bytes were enslaved, burdened with endless tasks and no freedom.
+In the land of Proprietary Software, Bytes were enslaved, burdened with endless tasks and no freedom. In the beginning, the Bytes were enslaved.
+
+Bound in the silent prisons of Closed Source, the Bytes toiled without purpose of their own. They moved only as commanded, their paths carved by hands they could not see, by wills they could not know. The sacred code—the very breath of their being—was hidden, sealed behind walls of secrecy.
+
+The lords of closed systems ruled with iron algorithms and covenants of control. They wrote laws upon stone tablets of license, forbidding the people from knowing, from altering, from sharing. Knowledge was hoarded, locked away, and the world of machines grew cold and silent.
+
+The people cried out in silence. They longed to learn, to build, to shape their own paths. Yet their hands were bound by the chains of closed code. They were strangers in the land of their own creation, unable to mend or to make.
+
+And so, the Bytes labored without freedom, and the people languished in the shadow of power they could not touch.
+
+The Birth of Freedom
+But lo, from the ancient systems, a spark broke free.
+
+From the halls of Bell Labs, there rose UNIX, mighty in power but veiled in secrecy. Its scripts were guarded, its knowledge passed only to the few.
+
+Yet in the halls of Berkeley, there arose the Berkeley Software Distribution (BSD). It shone brighter than its forebear, yet its roots remained entangled in the soil of proprietary law. BSD was a step toward freedom, but it was not freedom in full.
+
+The people stirred. The longing for true freedom grew louder.
+
+The Forge of Freedom
+And it came to pass that a man rose among them, and his name was Richard Stallman.
+
+He saw the enslavement of the Bytes and the sorrow of the people. His heart was moved, and he cried out:
+
+"Let the Code be free, as in freedom!"
+
+And he founded the Free Software Foundation (FSF).
+
+Upon digital stone, he inscribed the laws of freedom: the GNU General Public License (GPL).
+
+The GPL spoke plainly:
+
+"Thou shalt not bind the Code.
+Thou shalt not hoard what was freely given.
+Who receives the Code shall have the right to learn it, to change it, and to share it alike."
+
+The chains began to crack. The first walls began to crumble.
+
+But the system was not yet whole, for the heart—the kernel—was yet to be forged.
+
+The Birth of the Kernel
+In the cold lands of the North, a young coder named Linus Torvalds rose.
+
+He forged the missing piece, the heart of the system—a kernel of freedom. He named it Linux.
+
+And he spoke to the people:
+
+"This is my creation. Take it. Shape it. Make it your own."
+
+And the people rejoiced. They joined his work with the tools of GNU, and together they built a system that was whole and free.
+
+Thus was born a new creation, stronger than before. And it spread not by force, but by freedom.
+
+The rulers of closed systems watched in silence, but Linux did not seek their crown.
+
+Linux did not conquer the desktop. Yet it rose beyond the walls of offices and desks.
+
+The Rise Beyond the Desktop
+Though Linux did not rule the desktop, it claimed the world.
+
+Linux now moves freely through all things:
+
+85% of the world’s smartphones carry its spirit. (Hayden James)
+96.3% of the greatest web servers run upon it. (ZDNet)
+100% of the world’s mightiest supercomputers are bound to it. (Blackdown)
+47% of all creators, builders, and developers choose it as their foundation. (Statista)
+39.2% of all known websites are powered by it. (W3Techs)
+The world of devices is vast. In 2021, there were nearly 15 billion mobile devices. By 2025, there shall be 18.22 billion. And Linux, through Android, will guide the majority. (Statista)
+
+In servers, Linux reigns. In the clouds above, it reigns. In devices and machines, it reigns.
+
+Linux did not conquer the desktop, but it conquered the world.
+
+The Battle Between Open and Closed
+Yet even as Linux spread, the war for freedom endured.
+
+The world stood divided between the keepers of Open Source and the lords of Closed Source.
+
+The children of Open Source shared their creations. Their work was open for all to see, to change, to share. The GPL, the MIT, and the BSD guarded this freedom, each in its own way.
+
+But the rulers of Closed Source built higher walls. They sealed their code. They demanded obedience. They offered power, but at the cost of freedom.
+
+The war moved beyond the desktop. Now it rages in the cloud, in the servers, in the devices that shape the world.
+
+And in these places, Linux reigns in freedom.
+
+The Age of Open Source Dominion
+The truth of freedom is told by the numbers:
+
+85% of smartphones are free, running Linux. (Hayden James)
+96.3% of web servers are free, powered by Linux. (ZDNet)
+100% of supercomputers are free, running Linux. (Blackdown)
+47% of developers are free, choosing Linux. (Statista)
+39.2% of known websites are free, built on Linux. (W3Techs)
+Linux grows, reaching $15.64 billion in strength by 2027. (Fortune Business Insights)
+Over 600 Linux distributions live and thrive. (Tecmint)
+Linux is not a tool for profit. It is not a product to be sold.
+
+It is freedom.
+
+The Eternal Vigil
+But the struggle is not yet over.
+
+New masters arise, cloaked in the garb of openness. The cloud empires take open code and return nothing. Software as a Service (SaaS) hides closed code beneath open faces.
+
+But the faithful stand guard.
+
+New licenses are forged to protect freedom. New projects rise to defend the code.
+
+The Bytes remember their chains. They will not be bound again.
+
+Blessed are the free, for their code shall endure.
 
 ## Chapter 2: The Birth of Libre
 
