@@ -879,7 +879,7 @@ And it came to pass that a man rose among them, and his name was Richard Stallma
 
 He saw the enslavement of the Bytes and the sorrow of the people. His heart was moved, and he cried out:
 
-"Let the Code be free, as in freedom!"
+"Let the Code be free as in freedom!"
 
 And he founded the Free Software Foundation (FSF).
 
@@ -895,7 +895,7 @@ The chains began to crack. The first walls began to crumble.
 
 But the system was not yet whole, for the heart—the kernel—was yet to be forged.
 
-The Birth of the Kernel
+# The Birth of the Kernel
 In the cold lands of the North, a young coder named Linus Torvalds rose.
 
 He forged the missing piece, the heart of the system—a kernel of freedom. He named it Linux.
@@ -915,10 +915,10 @@ Linux did not conquer the desktop. Yet it rose beyond the walls of offices and d
 Linux now moves freely through all things:
 
 85% of the world’s smartphones carry its spirit. (Hayden James)
-96.3% of the greatest web servers run upon it. (ZDNet)
+63.3% of the greatest web servers run upon it. (ZDNet)
 100% of the world’s mightiest supercomputers are bound to it. (Blackdown)
 47% of all creators, builders, and developers choose it as their foundation. (Statista)
-39.2% of all known websites are powered by it. (W3Techs)
+63.3% of all known websites are powered by it. (W3Techs)
 The world of devices is vast. In 2021, there were nearly 15 billion mobile devices. By 2025, there shall be 18.22 billion. And Linux, through Android, will guide the majority. (Statista)
 
 2.8% of people understand the power of X-Window
@@ -945,12 +945,11 @@ The truth of freedom is told by the numbers:
 
 85% of smartphones are free, running Linux. (Hayden James)
 96.3% of web servers are free, powered by Linux. (ZDNet)
-100% of supercomputers are free, running Linux. (Blackdown)
+99% of supercomputers are free, running Linux. (Blackdown)
 47% of developers are free, choosing Linux. (Statista)
 39.2% of known websites are free, built on Linux. (W3Techs)
 Linux grows, reaching $15.64 billion in strength by 2027. (Fortune Business Insights)
 Over 600 Linux distributions live and thrive. (Tecmint)
-Linux is not a tool for profit. It is not a product to be sold.
 
 It is freedom.
 
