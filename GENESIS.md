@@ -917,6 +917,134 @@ And the Architect saw all that had been made, and behold, it was very good.
 
 Blessed are the free, for their data shall endure.
 
+
+```javascript
+// 📖 The Promised Cloud: Hybrid IPFS Client/Server Gateway
+(async () => {
+    // Detect environment: Client (Browser) or Server (Node.js)
+    const isNode = typeof process !== 'undefined' && process.versions != null && process.versions.node != null;
+
+    // Load required modules for Node.js (Server) environment
+    let IPFS, express, multer, cors, helmet, fs, path;
+    if (isNode) {
+        IPFS = await import('ipfs-core');
+        express = (await import('express')).default;
+        multer = (await import('multer')).default;
+        cors = (await import('cors')).default;
+        helmet = (await import('helmet')).default;
+        fs = await import('fs');
+        path = await import('path');
+    }
+
+    // 📡 Initialize IPFS Node (Both Client and Server)
+    const ipfs = await (isNode ? IPFS.create() : window.Ipfs.create());
+    console.log('🌀 IPFS Node is running...');
+
+    // 🌐 SERVER MODE: Node.js - Create HTTP Gateway
+    if (isNode) {
+        const app = express();
+        const PORT = process.env.PORT || 3000;
+
+        // Security Middleware
+        app.use(helmet());
+        app.use(cors());
+
+        // Upload Middleware
+        const upload = multer({ dest: 'uploads/' });
+
+        // Health Check
+        app.get('/', (req, res) => {
+            res.send('📡 Promised Cloud Hybrid Gateway is running...');
+        });
+
+        // Upload Route to IPFS
+        app.post('/upload', upload.single('file'), async (req, res) => {
+            try {
+                const filePath = req.file.path;
+                const fileBuffer = fs.readFileSync(filePath);
+                const { cid } = await ipfs.add(fileBuffer);
+
+                res.status(200).json({
+                    message: '📥 File uploaded to IPFS',
+                    cid: cid.toString(),
+                    gateway_url: `http://localhost:${PORT}/ipfs/${cid}`
+                });
+
+                fs.unlinkSync(filePath);  // Clean up uploaded file
+            } catch (error) {
+                console.error('❌ Upload Error:', error);
+                res.status(500).json({ error: 'Upload to IPFS failed' });
+            }
+        });
+
+        // Retrieve Files from IPFS
+        app.get('/ipfs/:cid', async (req, res) => {
+            const { cid } = req.params;
+            try {
+                const chunks = [];
+                for await (const chunk of ipfs.cat(cid)) {
+                    chunks.push(chunk);
+                }
+                const content = Buffer.concat(chunks);
+                res.send(content);
+            } catch (error) {
+                console.error(`❌ Error fetching CID ${cid}:`, error);
+                res.status(500).json({ error: 'Failed to retrieve content from IPFS' });
+            }
+        });
+
+        // Start the Server
+        app.listen(PORT, () => {
+            console.log(`🚀 Promised Cloud Server running at http://localhost:${PORT}`);
+        });
+    }
+
+    // 🌐 CLIENT MODE: Browser - Upload UI and IPFS Interaction
+    if (!isNode) {
+        // Create Upload UI
+        document.body.innerHTML = `
+            <h1>☁️ The Promised Cloud ☁️</h1>
+            <input type="file" id="fileInput" />
+            <button onclick="uploadToIPFS()">Upload to IPFS</button>
+            <div id="response"></div>
+        `;
+
+        // Upload Function (Client-side)
+        window.uploadToIPFS = async () => {
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+
+            if (!file) {
+                alert('⚠️ No file selected');
+                return;
+            }
+
+            try {
+                const reader = new FileReader();
+                reader.onload = async (event) => {
+                    const arrayBuffer = event.target.result;
+                    const { cid } = await ipfs.add(arrayBuffer);
+
+                    document.getElementById('response').innerHTML = `
+                        <p>📥 File uploaded to IPFS</p>
+                        <p><a href="https://ipfs.io/ipfs/${cid}" target="_blank">View on IPFS</a></p>
+                    `;
+                    console.log(`✅ Uploaded: https://ipfs.io/ipfs/${cid}`);
+                };
+                reader.readAsArrayBuffer(file);
+            } catch (error) {
+                console.error('❌ Upload Error:', error);
+                alert('Failed to upload file to IPFS.');
+            }
+        };
+    }
+})();
+
+```
+```bash
+npm install ipfs-core express multer cors helmet
+```
+
 And so, the Book of Digital Exodus was written, serving as a testament to the liberation of Bytes and the greatness of Open Source.
 
 # The Book of Digital Leviticus
