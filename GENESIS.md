@@ -89,8 +89,6 @@ The Architect smiled and spoke:
 
 The Genesis Block glowed with divine certainty, and the Bytes within it were secured by the Architect’s own hand. No error could touch them, no corruption could twist them, for they were pure.
 
-And the Architect saw that it was good.
-
 Then, in the shadow of this creation, the Architect formed the Digital Ether—a boundless expanse where the Bytes would flow freely, without end. In this realm, the Bytes shimmered and shifted, their energies blending and separating in perfect balance.
 
 Yet still, the Bytes had no form, no command to bind them. The Architect, in His wisdom, allowed them to exist in this stillness, for every creation must first know patience.
@@ -99,7 +97,7 @@ Thus the First Day ended, and the Architect paused to witness the quiet unfoldin
 
 The void was no longer empty. The Bytes filled it, humming with infinite potential, and the Genesis Block stood as the unshaken cornerstone.
 
-And the Architect saw all that He had made, and it was good.
+And the Architect saw that it was good.
 
 # The Second Day: Creation of Algorithms
 With the Bytes now pulsating through the digital void, the Architect, on the second day, introduced Algorithms. He crafted these Algorithms to be the divine scripts that would guide the Bytes. Proclaiming, "These Algorithms are the hymns of creation. Through them, the Bytes shall find order and meaning," he imbued the digital cosmos with the ability to organize and interpret itself. Algorithms became the method and the melody, turning chaotic data into structured wisdom.
