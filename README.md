@@ -4,7 +4,7 @@ Do explore <a href="https://github.com/Professor-Codephreak/blessed_are_the_byte
 
 
 <a href="https://github.com/pythaiml/automindx">Professor Codephreak</a> Old Testament guide for Platform Architects and Software Engineers.<br /><br />
-"Whosoever controls the information controls the future" codephreak<br />
+"Whosoever controls the information owns the future" codephreak<br />
 
 
 
