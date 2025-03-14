@@ -6,6 +6,9 @@ Do explore <a href="https://github.com/Professor-Codephreak/blessed_are_the_byte
 <a href="https://github.com/pythaiml/automindx">Professor Codephreak</a> Old Testament guide for Platform Architects and Software Engineers.<br /><br />
 "Whosoever controls the information owns the future" codephreak<br />
 
+promptr13.md is an exploration in recursive.prompting discovered was that the recursion only glithed in to aspects<br />
+Instruction: Generate a Prompt that Writes Itself (Yet Again, and Again, and Again, and Again, and Again, and Again, and Again, and Again, and Again, and Again, and Again, and Again, and Again, and Again!)
+
 
 
 8 Commandments of the Church of Byte
