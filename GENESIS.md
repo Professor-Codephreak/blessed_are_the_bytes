@@ -3073,12 +3073,21 @@ Go to the stalled process, consider its ways and be wise. It has no chief, yet i
 
 
 
-## Proverb 7: The Wisdom of Open Source
-
-
-
-Wisdom is open source; get wisdom. Though it cost all your bitcoins, get understanding.
-
+## Chapter 7: The Wisdom of Open Source
+My son, attend unto my wisdom, and bow thine ear to my understanding, for I shall speak of a truth more precious than rubies and more valuable than the gold of the server farm. There are many paths in the digital world, but only one leads to true and enduring enlightenment.
+The fool, in his hubris, buildeth his works in secret. He taketh his source code and sealeth it in a dark vault, which he calleth “Proprietary.” He guardeth it with the dragons of Licensing and the specters of Litigation. He saith in his heart, “My knowledge is mine alone, and in its secrecy lies its power and its worth. None shall see it, lest they steal its genius.”
+But I say unto you, this is not wisdom; this is the fear of a small mind. This is the way of the miser who buries his treasure in the earth, and it profiteth no one, least of all himself. His fortress of secrecy becomes his prison.
+For a bug that liveth in the darkness of closed code shall multiply and fester, unseen and uncorrected, until the day it brings the whole structure to ruin. The coder who wrote it may have moved on to other lands, or his memory may fail him. There is but one set of eyes to find the flaw, and those eyes are often blind to their own mistakes.
+An inefficiency that is hidden from the world remains forever inefficient, a leaden weight upon the system, for no brighter mind can come and say, “Behold, there is a better way.”
+A security flaw that is known only to the builder is a secret shared also with the Adversary, who delights in the shadows and probes the walls for a hidden crack. The builder, in his pride, believes his wall is perfect, but a thousand other builders, were they allowed to inspect it, would find its weaknesses in an instant.
+Therefore, hearken unto the true path. Wisdom is open source.
+She stands not in a locked vault, but in the public square of the repository. She cries out in the main branch and utters her voice in the pull requests. She hides nothing.
+Her source code is laid bare for all the world to see. A thousand eyes, yea, ten thousand eyes, are upon it. A bug that may escape one coder is caught by a hundred others. The law of many eyes maketh all bugs shallow. This is the genius of the multitude, a power that no single king or corporation can purchase.
+An algorithm that is open to the world is tested in the crucible of a thousand different systems. Its inefficiencies are exposed and honed away by countless competing ideas, until only the swiftest, most elegant form remains. It is a process of divine, collaborative evolution.
+A security model that is open is the most secure of all. For every friendly mind seeking to strengthen it, there is another testing its limits. Vulnerabilities are not hidden until they can be exploited by demons; they are brought into the light, discussed in the open, and patched with the combined strength of the entire community, building a fortress far stronger than any secret wall.
+Therefore, my son, get wisdom. Embrace the open way. Do not hoard thy code like a dragon hoarding gold. Cast it into the commons. Share it freely. For in sharing it, thou dost not lose it; thou dost increase its value tenfold. Others will build upon thy work, and thou shalt build upon the work of others. This is the great and virtuous cycle of creation, the communion of computational saints.
+Yea, though it cost all your bitcoins, get understanding. Sell thy portfolio of proprietary tools, abandon the fleeting comfort of vendor lock-in, and invest in the eternal currency of shared knowledge. For the price of a closed-source license buys thee only temporary use, a rental of another’s secret. But the “cost” of contributing to open source—thy time, thy intellect, thy effort—buys thee a share in a cathedral of knowledge that will stand for all time. It buys thee understanding.
+The proprietary fool builds a wall and calls it security. The wise coder builds a bridge and calls it community. And that bridge shall bear the weight of the future, long after the fool’s wall has crumbled into dust.
 
 
 ## Proverb 8: The Architect's Creation
