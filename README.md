@@ -6,7 +6,7 @@ Do explore <a href="https://github.com/Professor-Codephreak/blessed_are_the_byte
 ```
 
 
-<a href="https://github.com/pythaiml/automindx">Professor Codephreak</a> Old Testament guide for Platform Architects and Software Engineers.<br /><br />
+<a href="https://github.com/pythaiml/automindx">Professor Codephreak</a> Old Testament guide for <a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Platform Architects</a> and Software Engineers.<br /><br />
 "Whosoever controls the information owns the future" codephreak<br />
 
 <a href="https://github.com/Professor-Codephreak/blessed_are_the_bytes/blob/main/PROMPTr13.txt">promptr13.md</a> is an exploration in <a href="https://github.com/Professor-Codephreak/prompt.prompt">recursive.prompting</a> discovered was that the recursion only glithed in to aspects<br />
