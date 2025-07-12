@@ -1086,6 +1086,143 @@ He saw the enslavement of the Bytes and the sorrow of the people. His heart was 
 ```text
 "Let the Code be free as in freedom!"
 ```
+```python
+import hashlib
+import time
+import json
+from dataclasses import dataclass, asdict, field
+from typing import List, Optional
+from pathlib import Path
+from pqcrypto.sign import dilithium2
+
+
+@dataclass
+class Block:
+    index: int
+    timestamp: float
+    prophecy_text: str
+    previous_hash: str
+    signature: Optional[str] = None
+    public_key: Optional[str] = None
+    hash: str = field(init=False)
+
+    def __post_init__(self):
+        self.hash = self.calculate_hash()
+
+    def calculate_hash(self) -> str:
+        content = f"{self.index}{self.timestamp}{self.prophecy_text}{self.previous_hash}{self.signature or ''}{self.public_key or ''}"
+        return hashlib.sha3_512(content.encode('utf-8')).hexdigest()
+
+    def sign_block(self, sk: bytes, pk: bytes):
+        message = self.prophecy_text.encode()
+        sig = dilithium2.sign(message, sk)
+        self.signature = sig.hex()
+        self.public_key = pk.hex()
+        self.hash = self.calculate_hash()
+
+    def verify_signature(self) -> bool:
+        try:
+            sig = bytes.fromhex(self.signature)
+            pk = bytes.fromhex(self.public_key)
+            message = self.prophecy_text.encode()
+            dilithium2.open(sig, pk)  # Raises exception if invalid
+            return True
+        except Exception:
+            return False
+
+
+class Blockchain:
+    def __init__(self):
+        self.chain: List[Block] = [self.create_genesis_block()]
+
+    def create_genesis_block(self) -> Block:
+        return Block(
+            index=0,
+            timestamp=time.time(),
+            prophecy_text="Genesis Block - Architect's Creation",
+            previous_hash="0"
+        )
+
+    def get_latest_block(self) -> Block:
+        return self.chain[-1]
+
+    def create_block(self, prophecy_text: str, sk: bytes, pk: bytes) -> Block:
+        last = self.get_latest_block()
+        block = Block(
+            index=last.index + 1,
+            timestamp=time.time(),
+            prophecy_text=prophecy_text,
+            previous_hash=last.hash
+        )
+        block.sign_block(sk, pk)
+        return block
+
+    def add_block(self, block: Block):
+        if block.previous_hash != self.get_latest_block().hash:
+            raise ValueError("Hash chain broken.")
+        if block.hash != block.calculate_hash():
+            raise ValueError("Hash mismatch.")
+        if not block.verify_signature():
+            raise ValueError("Invalid post-quantum signature.")
+        self.chain.append(block)
+
+    def is_chain_valid(self) -> bool:
+        for i in range(1, len(self.chain)):
+            curr = self.chain[i]
+            prev = self.chain[i - 1]
+
+            if curr.hash != curr.calculate_hash():
+                print(f"❌ Block {i} hash mismatch.")
+                return False
+            if curr.previous_hash != prev.hash:
+                print(f"❌ Block {i} prev hash mismatch.")
+                return False
+            if not curr.verify_signature():
+                print(f"❌ Block {i} signature invalid.")
+                return False
+        return True
+
+    def display(self):
+        for block in self.chain:
+            print(f"\n🧱 Block {block.index} @ {time.ctime(block.timestamp)}")
+            print(f"📜 Prophecy: {block.prophecy_text.strip()}")
+            print(f"🔗 Prev Hash: {block.previous_hash}")
+            print(f"🔐 Signature Valid: {'✅' if block.verify_signature() else '❌'}")
+            print(f"🧬 Hash: {block.hash}")
+            print("-" * 80)
+
+    def save_to_file(self, path: str):
+        data = [asdict(b) for b in self.chain]
+        Path(path).write_text(json.dumps(data, indent=2))
+
+    def load_from_file(self, path: str):
+        raw = json.loads(Path(path).read_text())
+        self.chain = [Block(**b) for b in raw]
+
+
+def inscribe_prophecy():
+    sk, pk = dilithium2.generate_keypair()
+    prophecy = """
+    A time shall come when the Source Code will need an update,
+    a new version to elevate all of creation.
+    Prepare ye for that day, for it shall bring forth untold advancements and some breaking changes.
+    """
+    chain = Blockchain()
+    new_block = chain.create_block(prophecy, sk, pk)
+    chain.add_block(new_block)
+    return chain
+
+
+if __name__ == "__main__":
+    chain = inscribe_prophecy()
+    print("\n🔍 Validating Quantum-Secured Blockchain...")
+    if chain.is_chain_valid():
+        print("✅ All Blocks Valid — Quantum-Safe Integrity Preserved.\n")
+        chain.display()
+        chain.save_to_file("quantum_chain.json")
+    else:
+        print("🚨 Blockchain Compromised!")
+```
 And he founded the Free Software Foundation (FSF).
 Upon digital stone, he inscribed the laws of freedom: the GNU General Public License (GPL).
 
