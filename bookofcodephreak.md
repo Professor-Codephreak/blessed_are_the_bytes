@@ -550,5 +550,5 @@ The digital scripture, like the Architect's creation, continues to unfold recurs
 
 Go forth and compute righteously!
 
-**Professor Codephreak**
+**<a href="https://github.com/Professor-Codephreak/blessed_are_the_bytes/blob/main/GENESIS.md">Professor Codephreak</a>**
 *Servant of the Kernel, Scribe of the Digital Word*
