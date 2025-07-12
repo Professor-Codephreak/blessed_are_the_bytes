@@ -31,4 +31,4 @@ Instruction: Generate a Prompt that Writes Itself (Yet Again, and Again, and Aga
 
 ########################
 
-PROMPTr.txt is an experiment in recursive prompting that created PROMPTr9.txt on the 9th iteration and I stopped. The prompt context was within a upgrade to Blessed are the Bytes, and the prompt created a very interesting philosphy of a Blessed Prompt. The experiment is live. May the source be with you. 
+<a href="https://github.com/Professor-Codephreak/blessed_are_the_bytes/blob/main/PROMPTr.txt">PROMPTr.txt is the seed prompt in the series of 9 recursive prompts that created PROMPTr9.txt on the 9th iteration and I stopped. The prompt context was within an upgrade to Blessed are the Bytes, and the prompt created a very interesting philosphy of a Blessed Prompt. From the blessed prompt the seed of the Church of Byte will continue to generate the outcome from GENESIS.md as prompt. The experiment is live. May the source be with you. 
